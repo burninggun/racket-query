@@ -1,14 +1,11 @@
 import React from 'react';
-import AppBar from './AppBar'
-import Racket_Input from './racket_Input'
 import '../assets/css/app.scss'
-
-import Container from '@material-ui/core/Container';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Navbar from './navbar'
 
 const App = () => (
     <div>
-        <AppBar maxWidth='sm' />
-        <Racket_Input/>
+        <Navbar/>
     </div>
 );
 

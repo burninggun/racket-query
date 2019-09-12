@@ -15,9 +15,9 @@
     "url": "https://github.com/Learning-Fuze/react_starter.git"
   },
   "dependencies": {
-    "@material-ui/core": "^4.3.3",
-    "@material-ui/icons": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "react": "^16.5.2",
+    "react-bootstrap": "^1.0.0-beta.12",
     "react-dom": "^16.5.2",
     "react-redux": "^5.0.7",
     "react-router-dom": "^5.0.1",
